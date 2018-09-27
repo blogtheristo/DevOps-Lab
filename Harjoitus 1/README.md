@@ -9,9 +9,11 @@ Lataa ja asenna GitHub työpöytäsovellus virtuaalikoneelle: (https://desktop.g
 Lataa ja asenna Git paketti virtuaalikoneelle: (https://git-scm.com/download/win)
 
 ## Versionhallinta harjoitus
+a. Clone 
+b. download 
 ### Repositoryn hallinta
 1. Luo uusi tyhjä repository (__luo README tiedosto__)
-2. Clone or Download -> Open in GitHub Desktop
+2. Download -> Open in GitHub Desktop
 3. Luo uusi branch: Development
 4. Muuta README.md tiedostoa
 5. Varmista muutokset GitHub Desktopista
